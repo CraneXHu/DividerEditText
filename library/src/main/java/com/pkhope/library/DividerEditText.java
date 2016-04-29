@@ -10,7 +10,7 @@ import android.view.Gravity;
 import android.widget.EditText;
 
 /**
- * Created by thinkpad on 2015/8/12.
+ * Created by pkhope on 2015/8/12.
  */
 public class DividerEditText extends EditText {
 
