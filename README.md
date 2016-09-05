@@ -9,7 +9,7 @@ A custom EditText with divider
 ##license
 The MIT License (MIT)
 
-Copyright (c) pkhope 2015 
+Copyright (c) 2015 pkhope
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
